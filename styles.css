@@ -18,8 +18,8 @@ body {
 }
 
 #container {
+    margin: 0 auto;
     margin-top: 80px;
-    margin-left: 530px;
     max-height: 320px;
     max-width: 352px;
     line-height: 0;
