@@ -1,0 +1,34 @@
+/* styles.css */
+
+body {
+    background-color: bisque;
+}
+
+#heading {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding: 50px;
+}
+
+.buttons {
+    text-align: center;
+    font-size: 15px;
+    border-radius: 10px;
+}
+
+#container {
+    margin-top: 80px;
+    margin-left: 530px;
+    max-height: 320px;
+    max-width: 352px;
+    line-height: 0;
+}
+
+.grids {
+    display: inline-block;
+    border: 1px solid black;
+    background-color: #cbcbcb;
+    width: 20px;
+    height: 20px;
+}
